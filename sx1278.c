@@ -708,7 +708,7 @@ static void spi_gpio_exit(void)
   
 MODULE_LICENSE("GPL");  
 //MODULE_LICENSE("MYGPL");  
-MODULE_AUTHOR("SCT");  
+MODULE_AUTHOR("MWJ");  
   
 module_init(spi_gpio_init);
 module_exit(spi_gpio_exit);
